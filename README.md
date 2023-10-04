@@ -1,11 +1,31 @@
-# Tea Beta Soft
-# Main <crypto/> moves in telegram: [@web3_enjoyer_club](https://t.me/+tdC-PXRzhnczNDli)
+# Tea Beta Soft ☕🔹
 
-## Can change params in inputs/config.py ![image](https://github.com/FlorianREGAZ/Python-Tls-Client/assets/58307006/30ba627b-0991-4551-8bae-a5222f14d134)
+Discover the latest <crypto/> moves in our Telegram group: [Web3 Enjoyer Club](https://t.me/+tdC-PXRzhnczNDli) 🚀📈
 
-### Libraries are automatically downloaded from the file requirements.txt.
+## Configuration 🛠️
 
-## You need to put:
- 1. (Optional) Emails (email or email:imap_pass) in inputs/emails.txt ![image](https://github.com/MsLolita/VeloData/assets/58307006/c94b7013-d256-4a37-8fd7-3f87da02c803) 
+You have the flexibility to customize parameters in `inputs/config.py` 🧬
 
- 2. (Optional) Proxies (login:password@ip:port) in inputs/proxies.txt ![image](https://github.com/MsLolita/VeloData/assets/58307006/a2c95484-52b6-497a-b89e-73b89d953d8c) 
+![Configuration](https://github.com/FlorianREGAZ/Python-Tls-Client/assets/58307006/30ba627b-0991-4551-8bae-a5222f14d134)
+
+### Easy Library Installation 📚
+
+All required libraries are automatically downloaded from `requirements.txt` 📦📜
+
+## Prerequisites 📋
+
+Before you get started, make sure to prepare the following:
+
+1. (Optional) Email Configuration 📧
+
+   Add your email credentials in `inputs/emails.txt` to enable email features 📮
+
+   ![Email Configuration](https://github.com/MsLolita/VeloData/assets/58307006/c94b7013-d256-4a37-8fd7-3f87da02c803)
+
+2. (Optional) Proxy Setup 🔒
+
+   Configure your proxies with the format `login:password@ip:port` in `inputs/proxies.txt` 🌐
+
+   ![Proxy Configuration](https://github.com/MsLolita/VeloData/assets/58307006/a2c95484-52b6-497a-b89e-73b89d953d8c)
+
+Feel free to customize your Tea Beta Soft experience to suit your needs! ☕🚀
